@@ -1,9 +1,10 @@
 # BlackLine1337/DevOps-Engineer
 ## "Python, you mean like the snake?"
 
-DevOps-oriented engineer and security researcher.  
+Founder of **[BlackLineCyber LLC](https://blacklinecyber.org)** · DevOps-oriented engineer and security researcher.  
 I work across cloud infrastructure, automation, CI/CD, and security-minded engineering.  
 Most of my public code is released under the **[WTFPL](https://github.com/rpherrera/WTFPL)** — use it freely and responsibly.
+
 
 **Focus:**
 - Cloud (AWS/GCP/Azure)  
