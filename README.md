@@ -1,5 +1,4 @@
-# BlackLine1337/DevOps-Engineer
-## "Python, you mean like the snake?"
+# Arturo DLC — DevOps Engineer & Security Researcher
 
 Founder of **[BlackLineCyber LLC](https://blacklinecyber.org)** · DevOps-oriented engineer and security researcher.  
 I work across cloud infrastructure, automation, CI/CD, and security-minded engineering.  
@@ -30,9 +29,8 @@ Resources worth following:
 
 ## ⚠️ Disclaimer
 No affiliations are implied.  
-Nothing here is legal, financial, or life advice.  
-All opinions and jokes are fictional — like that unnamed club you’re not supposed to talk about.
+Nothing here is legal, financial, or life advice. Opinions are my own.
 
 ---
 
-Have a productive day and build cool things. 🔥
+Have a productive day and build cool things.
